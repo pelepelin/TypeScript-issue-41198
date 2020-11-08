@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "typescript": "latest",
+    "dnscache": "1.0.2",
+    "@types/node": "latest"
+  },
+  "scripts": {
+    "start": "node dist/index.js",
+    "tsc": "tsc"
+  }
+}
